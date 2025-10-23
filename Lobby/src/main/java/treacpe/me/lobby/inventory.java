@@ -14,7 +14,7 @@ public class inventory implements CommandExecutor {
             player.getInventory().setItem(0, variables.gameMenuHotbar());
             player.getInventory().setItem(1, variables.myProfileHotbar());
             player.getInventory().setItem(2, variables.shopHotbar());
-            player.getInventory().setItem(3, variables.collectiblesHotbar());
+            player.getInventory().setItem(4, variables.collectiblesHotbar());
 
         }
 
