@@ -1,0 +1,4 @@
+name: Lobby
+version: '0.1.1'
+main: treacpe.me.lobby.Lobby
+api-version: '1.21'
